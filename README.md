@@ -11,11 +11,39 @@ I am a **3D Web Developer** specializing in:
 
 ---
 
+## Skills & Software Stack
+
+### 🔧 Technical Skills & Tools
+- **Babylon.js** – Interactive 3D web rendering
+- **SvelteKit** – Modern frontend framework
+- **Tailwind CSS** – Utility-first styling
+- **GSAP** – Advanced animations
+- **Blender** – Low-poly and game-ready 3D modeling
+- **Canva** – Quick graphics and visual content
+- **Vercel** – Hosting and CI/CD for web apps
+
+### 🌐 Websites & Platforms I Depend On
+- **AI Websites** – For content generation, ideas, automation
+- **WhatsApp & Viber** – Client communication
+- **Gmail** – Business communication
+- **Bank Website** – Financial operations
+- **GitHub** – Code hosting and version control
+- **Upwork** – Freelance work opportunities
+- **Payhip** – Digital product sales platform
+- **PayPal** – Payment processing
+- **LinkedIn** – Professional branding and networking
+- **Reddit** – Community engagement and soft marketing
+- **YouTube** – showoff videos
+
+---
+
 ## Goals
 
 - Continuously **advance my skills** by building polished, modern 3D and web components.
 - Use each skill to build real, usable micro-products that can be **shown off or sold**.
 - Create a **solo sustainable workflow** that allows me to work creatively and profitably without building a startup or managing a large team.
+- **Making a full game or full SaaS may cost at most $20** — but **making parts of the SaaS or parts of the game and selling them takes much shorter time and earns 2x the money**.  
+  👉 *That’s my goal:* focus on reusable parts instead of full-scale projects.
 
 ---
 
@@ -51,15 +79,15 @@ A digital product store for:
 
 ## Marketing Strategy
 
-### **Show What You Build — in Dev-Focused Places**
+### 🔁 1. **Show What You Build — in Dev-Focused Places**
 
 Use **demo snippets**, **visual GIFs**, or **recorded videos** to showcase each asset or effect.
 
 Post consistently in:
-
+- **Twitter/X**: Short GIFs of 3D interactions, with dev notes or “How I made this” threads
 - **LinkedIn**: Clean, professional breakdowns of how you built a component or scene
-- **Reddit**: Share in `r/webdev`, `r/javascript`, `r/babylonjs`, or `r/Frontend`
-
+- **Reddit**: Share in `r/webdev`, `r/javascript`, `r/threejs`, `r/babylonjs`, or `r/Frontend`
+- **Hacker News (Show HN)**: When releasing a full template, game, or boilerplate
 
 > 💡 Every product or component = a post idea  
 > Example: “How I made this scroll animation in Babylon.js”  
