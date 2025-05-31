@@ -33,7 +33,6 @@ I am a **3D Web Developer** specializing in:
 - **PayPal** – Payment processing
 - **LinkedIn** – Professional branding and networking
 - **Reddit** – Community engagement and soft marketing
-- **YouTube** – showoff videos
 
 ---
 
@@ -44,6 +43,19 @@ I am a **3D Web Developer** specializing in:
 - Create a **solo sustainable workflow** that allows me to work creatively and profitably without building a startup or managing a large team.
 - **Making a full game or full SaaS may cost at most $20** — but **making parts of the SaaS or parts of the game and selling them takes much shorter time and earns 2x the money**.  
   👉 *That’s my goal:* focus on reusable parts instead of full-scale projects.
+
+---
+
+## Ethical & Halal Constraints
+
+To align my work with Islamic values, I follow these clear rules in all projects:
+
+- ❌ **No violence or combat mechanics**  
+- ❌ **No depiction of living creatures** (to avoid *tasweer* concerns)  
+- ❌ **No gambling, inappropriate, or haram content**  
+- ✅ **Preferably not time-wasting** — projects should be beneficial, educational, or productive in nature
+
+This helps ensure my work remains spiritually clean while still creative and professional.
 
 ---
 
