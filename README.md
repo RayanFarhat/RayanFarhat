@@ -1,39 +1,63 @@
-# Rayan Farhat - 3D frontend developer
+# 🏗️ Rayan Farhat — Business & Content Model
 
-## Overview
+## 1. Programming Services (Client Work)
 
-This project delivers an amazing and unique frontend design using a powerful stack: Next.js, GSAP with SVG magic, Three.js, Blender, and Canva. The centerpiece is a 3D character with a transparent background seamlessly integrated into the website, enhanced with SVG effects like lighting and moving elements, and dynamic graphic motion powered by GSAP.
+- Custom **Revit plugins** & **BIM software** for engineering and construction firms.
+- **Revenue:** contracts, one-time projects, long-term retainers.
+- **Channel:** Upwork, LinkedIn outreach, direct industry referrals.
 
-## The Process
+---
 
-1. **Great Frontend Design**
+## 2. Developer Library (Open Source + Premium)
 
-   - Build a responsive and modern frontend using **Next.js** to structure pages, components, and routing.
+- **Open-source core (GitHub):** reusable Revit/IFC.js utilities.
+- **Premium features:** automation tools & integrations for advanced use cases.
+- Every blog/video = code improvement added to the library.
+- **Revenue:** subscriptions (Payhip/Stripe), consulting around the library.
 
-2. **3D Character Creation**
+---
 
-   - Use **Blender** to design and rig a low-poly 3D character, ensuring it has a transparent background for smooth integration.
+## 3. Education & Content
 
-3. **Integration with Three.js**
+- **Courses (Udemy, Payhip):** Revit API, BIM web development, IFC.js integrations.
+- **Blog (Personal site / LinkedIn):** tutorials, problem-solving posts, deep dives.
+- **YouTube Shorts:** fast tips, plugin demos, workflows explained in simple terms.
+- **Revenue:** course sales, affiliate partnerships, YouTube ads, client funneling.
 
-   - Load the 3D character into the website using **Three.js**, setting up a scene, camera, and lighting to make it blend naturally with the design.
+---
 
-4. **SVG Effects**
+## 4. Personal Branding
 
-   - Add custom **SVG** elements for effects like lighting, moving patterns, and interactive visuals to enhance the experience.
+- **LinkedIn:** professional posts, engineering workflow insights, client showcases.
+- **YouTube:** developer-focused tutorials and short content.
+- **Blog + LinkedIn cross-posts:** SEO and authority building.
+- **Goal:** position myself as _“the go-to BIM/Revit API developer for both companies and developers.”_
 
-5. **GSAP Animations**
+---
 
-   - Implement creative **GSAP** animations tailored to the website’s theme, animating SVG elements, the 3D character, and other dynamic features.
+## 📌 Workflow Cycle
 
-6. **Canva Enhancements**
-   - Design additional graphic elements in **Canva** (e.g., icons, backgrounds) to complement the overall aesthetic.
+1. **If I have a client contract** → focus on delivering the project.
+2. **If I don’t have a contract** →
+   - Identify a real BIM/Revit API problem.
+   - Write a **blog** explaining the solution.
+   - Record a **YouTube short** summarizing it.
+   - Add the solution into my **developer library**.
+3. Share on **LinkedIn + GitHub** → builds visibility and credibility.
 
-## Technologies
+---
 
-- **Next.js**: React framework for fast, SEO-friendly websites.
-- **GSAP**: JavaScript library for high-performance animations.
-- **SVG**: Scalable vector graphics for custom effects and visuals.
-- **Three.js**: 3D rendering library for integrating the character.
-- **Blender**: 3D modeling tool for creating low-poly rigged assets.
-- **Canva**: Graphic design platform for supplementary visuals.
+## 🌐 My Current Platforms
+
+- **Autodesk** → ADN, dev community.
+- **GitHub** → personal developer library + portfolio.
+- **LinkedIn** → networking, client outreach, branding.
+- **YouTube** → tutorials and developer content.
+- **Gmail** → communication.
+- **Vercel** → host personal site, blog, and docs.
+- **Payhip** → subscriptions + course sales.
+- **Upwork** → contracts and freelance projects.
+- **Udemy** → broader reach for courses.
+- **Canva** → design for content creation.
+
+---
