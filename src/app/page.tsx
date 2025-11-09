@@ -1,103 +1,83 @@
-import Image from "next/image";
+"use client";
+import React, { useEffect, useRef, useState } from "react";
+import { setTheme, Theme } from "@/utils/themeManager";
+import NavBar from "@/components/NavBar";
+import * as BABYLON from "@babylonjs/core";
 
-export default function Home() {
+const themes: Theme[] = ["yellow", "blue", "green", "red", "white"];
+
+const App: React.FC = () => {
+  const [currentTheme, setCurrent] = useState<Theme>("green");
+  const handleThemeChange = (theme: Theme) => {
+    setTheme(theme);
+    setCurrent(theme);
+  };
+  React.useEffect(() => {
+    handleThemeChange("green");
+  }, []);
+
+  const canvasRef = useRef<HTMLCanvasElement | null>(null);
+  const engineRef = useRef<BABYLON.Engine | null>(null);
+  useEffect(() => {
+    if (!canvasRef.current) return;
+    console.log("Canvas is ready");
+    const engine = new BABYLON.Engine(canvasRef.current, true);
+    engineRef.current = engine;
+
+    const scene = new BABYLON.Scene(engine);
+
+    // Camera
+    const camera = new BABYLON.ArcRotateCamera(
+      "camera",
+      Math.PI / 2,
+      Math.PI / 4,
+      4,
+      BABYLON.Vector3.Zero(),
+      scene
+    );
+    camera.attachControl(canvasRef.current, true);
+
+    // Light
+    const light = new BABYLON.HemisphericLight(
+      "light",
+      new BABYLON.Vector3(1, 1, 0),
+      scene
+    );
+
+    // Simple box
+    const box = BABYLON.MeshBuilder.CreateBox("box", {}, scene);
+
+    // Animation
+    engine.runRenderLoop(() => {
+      box.rotation.y += 0.01;
+      scene.render();
+    });
+
+    // Resize
+    window.addEventListener("resize", () => engine.resize());
+
+    return () => {
+      engine.dispose();
+    };
+  }, []);
+
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
-
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+    <div style={{ padding: "2rem" }}>
+      <h1>Multi-Theme Example</h1>
+      <div style={{ display: "flex", gap: "1rem", marginBottom: "2rem" }}>
+        {themes.map((theme) => (
+          <button key={theme} onClick={() => handleThemeChange(theme)}>
+            {theme}
+          </button>
+        ))}
+      </div>
+      <NavBar />
+      <div style={{ width: "800px", height: "600px" }}>
+        <canvas ref={canvasRef} style={{ width: "100%", height: "100%" }} />
+      </div>
+      <button className="bg-(--color-primary)">sssss</button>
     </div>
   );
-}
+};
+
+export default App;
