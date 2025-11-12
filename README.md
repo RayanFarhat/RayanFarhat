@@ -1,63 +1,100 @@
-# 🏗️ Rayan Farhat — Business & Content Model
+# 🧠 Rayan Farhat — 3D Web Software Engineer & Babylon.js Expert
 
-## 1. Programming Services (Client Work)
-
-- Custom **Revit plugins** & **BIM software** for engineering and construction firms.
-- **Revenue:** contracts, one-time projects, long-term retainers.
-- **Channel:** Upwork, LinkedIn outreach, direct industry referrals.
+Welcome to my portfolio — a showcase of my work, tools, and problem-solving approach in **3D web engineering** and **Babylon.js** development.  
+Inspired by [Andrey Markin](https://andrey-markin.com/), my site focuses on clarity, interactivity, and creative engineering.
 
 ---
 
-## 2. Developer Library (Open Source + Premium)
+## 🌍 Main Website Structure
 
-- **Open-source core (GitHub):** reusable Revit/IFC.js utilities.
-- **Premium features:** automation tools & integrations for advanced use cases.
-- Every blog/video = code improvement added to the library.
-- **Revenue:** subscriptions (Payhip/Stripe), consulting around the library.
+there is also ar btn to run landing page in AR so user see other level of landing pages.
 
----
+### 🦸 Hero
 
-## 3. Education & Content
+A clear introduction to who I am and what I do —  
+**3D Web Software Engineer** and **Babylon.js Expert**.
 
-- **Courses (Udemy, Payhip):** Revit API, BIM web development, IFC.js integrations.
-- **Blog (Personal site / LinkedIn):** tutorials, problem-solving posts, deep dives.
-- **YouTube Shorts:** fast tips, plugin demos, workflows explained in simple terms.
-- **Revenue:** course sales, affiliate partnerships, YouTube ads, client funneling.
+### 🛠️ Services
 
----
+Custom 3D web solutions, interactive visualization, geometry systems, and creative development.
 
-## 4. Personal Branding
+### 💼 Projects
 
-- **LinkedIn:** professional posts, engineering workflow insights, client showcases.
-- **YouTube:** developer-focused tutorials and short content.
-- **Blog + LinkedIn cross-posts:** SEO and authority building.
-- **Goal:** position myself as _“the go-to BIM/Revit API developer for both companies and developers.”_
+A curated selection of real-world 3D web projects demonstrating my skills in **Babylon.js**, **TypeScript**, and **creative problem solving**.
 
----
+### ⭐ Reviews
 
-## 📌 Workflow Cycle
+Client and collaborator testimonials highlighting the value and results of my work.
 
-1. **If I have a client contract** → focus on delivering the project.
-2. **If I don’t have a contract** →
-   - Identify a real BIM/Revit API problem.
-   - Write a **blog** explaining the solution.
-   - Record a **YouTube short** summarizing it.
-   - Add the solution into my **developer library**.
-3. Share on **LinkedIn + GitHub** → builds visibility and credibility.
+### 💰 Pricing
+
+Transparent pricing options for different service tiers and project scopes.
+
+### 📞 Contact
+
+Simple, accessible contact form for collaboration, consultation, or project inquiries.
 
 ---
 
-## 🌐 My Current Platforms
+## ⚙️ RayanKit
 
-- **Autodesk** → ADN, dev community.
-- **GitHub** → personal developer library + portfolio.
-- **LinkedIn** → networking, client outreach, branding.
-- **YouTube** → tutorials and developer content.
-- **Gmail** → communication.
-- **Vercel** → host personal site, blog, and docs.
-- **Payhip** → subscriptions + course sales.
-- **Upwork** → contracts and freelance projects.
-- **Udemy** → broader reach for courses.
-- **Canva** → design for content creation.
+**RayanKit** is my personal and shared toolkit —  
+a collection of **reusable 3D components and systems** for me and others interested in advanced Babylon.js workflows.
+
+### ✳️ Key Features
+
+- **DXF Reader / Writer / Renderer**
+- **Geometry Kernel Editor**
+- **Undo / Redo System**
+- **Creative Animations** (raw JavaScript and GSAP)
+
+Each component has:
+
+- A **dedicated documentation page**
+- A **resizable interactive canvas** demonstrating functionality
+- An **explanation** of the problem it solves
+- A **download button** for TypeScript + Babylon.js source code
+
+> 💡 I’m not selling code or algorithms — they are free.  
+> What I offer is my **problem-solving expertise** in 3D programming and interactive design.
 
 ---
+
+## 🧪 Labs
+
+**Labs** is my marketing and educational section —  
+a collection of interactive blog-style posts that explain and visualize the **problems I solve**.
+
+Each lab:
+
+- Demonstrates real 3D problems and solutions
+- Uses interactive 3D canvases for clear visual understanding
+- Covers short challenges, creative ideas, or deep technical explorations
+
+> Showing 3D concepts through interactive examples is far more effective than static explanations.
+
+---
+
+## 🧩 Dependencies & Platforms
+
+- **Vercel** — Hosting & Deployment
+- **GitHub** — Source Code & Project Management
+- **LinkedIn** — Professional Networking
+- **Upwork / Arc.dev / Toptal** — Freelance & Consulting Platforms
+- **YouTube** — Educational & Demo Videos
+- **Calendly** — Booking & Consultations
+- **Canva** — Visual & Marketing Assets
+- **Google** — mail and all
+- **Bank Hapoalim** — Business Banking
+- **Business Registration (מורשה)** — Official Israeli Business Entity
+
+---
+
+## 💬 About My Work
+
+I believe in **open, accessible code** and **paid expertise**.  
+I give away my tools freely, but what clients truly gain from working with me is the ability to **solve complex problems creatively** using **3D programming**, **geometry systems**, and **interactive experiences**.
+
+---
+
+© 2025 Rayan Farhat. All rights reserved.
