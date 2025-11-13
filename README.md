@@ -1,99 +1,114 @@
 # 🧠 Rayan Farhat — 3D Web Software Engineer & Babylon.js Expert
 
-Welcome to my portfolio — a showcase of my work, tools, and problem-solving approach in **3D web engineering** and **Babylon.js** development.  
-Inspired by [Andrey Markin](https://andrey-markin.com/), my site focuses on clarity, interactivity, and creative engineering.
+Welcome to my portfolio — where cutting-edge 3D web engineering meets creative problem-solving.  
+Expert in **Babylon.js**, **TypeScript**, geometry kernels, high-performance rendering, and interactive experiences.  
+Inspired by the clarity and interactivity of [Andrey Markin](https://andrey-markin.com/).
 
 ---
 
 ## 🌍 Main Website Structure
 
-there is also ar btn to run landing page in AR so user see other level of landing pages.
+There is also an **AR button** on the landing page that launches the entire portfolio in Augmented Reality — letting visitors explore an immersive 3D version of the site on their phone or AR glasses.
 
 ### 🦸 Hero
 
-A clear introduction to who I am and what I do —  
-**3D Web Software Engineer** and **Babylon.js Expert**.
+A powerful, interactive 3D introduction:  
+**Rayan Farhat — 3D Web Software Engineer & Babylon.js Expert**
 
 ### 🛠️ Services
 
-Custom 3D web solutions, interactive visualization, geometry systems, and creative development.
+- Custom 3D web applications & experiences
+- High-performance geometry systems & editors
+- Interactive product configurators & visualizations
+- Creative shaders, animations, and real-time rendering solutions
 
 ### 💼 Projects
 
-A curated selection of real-world 3D web projects demonstrating my skills in **Babylon.js**, **TypeScript**, and **creative problem solving**.
+Curated selection of production-grade 3D web projects showcasing advanced Babylon.js techniques, large-scale scene management, and creative engineering.
+
+### 🧠 Experience
+
+10+ years in software engineering, with deep specialization in real-time 3D on the web.
 
 ### ⭐ Reviews
 
-Client and collaborator testimonials highlighting the value and results of my work.
+Real testimonials from clients on Upwork, Toptal, Arc.dev, and direct collaborations.
 
 ### 💰 Pricing
 
-Transparent pricing options for different service tiers and project scopes.
+Transparent packages: from one-day consultations to full-scale 3D platform development.
 
 ### 📞 Contact
 
-Simple, accessible contact form for collaboration, consultation, or project inquiries.
+Simple contact form + Calendly link for quick discovery calls.
 
 ---
 
-## ⚙️ RayanKit
+## ⚙️ RayanKit — Reusable Babylon.js Components (Free & Open)
 
-**RayanKit** is my personal and shared toolkit —  
-a collection of **reusable 3D components and systems** for me and others interested in advanced Babylon.js workflows.
+**RayanKit** is my ever-growing collection of production-ready, reusable 3D tools and components built for Babylon.js.
 
-### ✳️ Key Features
+### ✳️ Key Tools
 
-- **DXF Reader / Writer / Renderer**
-- **Geometry Kernel Editor**
-- **Undo / Redo System**
-- **Creative Animations** (raw JavaScript and GSAP)
+- DXF Reader / Writer / Renderer
+- Advanced Geometry Utilities
+- Custom Shader Library
+- Creative Animation Systems (vanilla JS + GSAP integrations)
+- Performance helpers (instancing, LOD, frustum culling, etc.)
 
-Each component has:
+Every tool includes:
 
-- A **dedicated documentation page**
-- A **resizable interactive canvas** demonstrating functionality
-- An **explanation** of the problem it solves
-- A **download button** for TypeScript + Babylon.js source code
-
-> 💡 I’m not selling code or algorithms — they are free.  
-> What I offer is my **problem-solving expertise** in 3D programming and interactive design.
+- Full documentation
+- Resizable live playground
+- Problem it solves explained
+- **Free download** (TypeScript + Babylon.js source)
 
 ---
 
-## 🧪 Labs
+## 🧪 Rayan Engine — My Custom High-Performance Geometry Kernel
 
-**Labs** is my marketing and educational section —  
-a collection of interactive blog-style posts that explain and visualize the **problems I solve**.
+**Rayan Engine** is the core technology powering my most ambitious projects.
 
-Each lab:
+### Core Features
 
-- Demonstrates real 3D problems and solutions
-- Uses interactive 3D canvases for clear visual understanding
-- Covers short challenges, creative ideas, or deep technical explorations
+- Full-featured **geometry kernel** (CSG, boolean operations, parametric modeling)
+- Robust **Undo/Redo system** (command pattern, unlimited history)
+- Custom **binary file format** (.rayan) — ultra-compact and fast parsing
+- Aggressive **LOD system** keeping **60 FPS even with millions of instances/models**
+- Built from the ground up for the web with Babylon.js + WebGPU-ready architecture
+- Real-time collaborative editing ready (multi-user sync in development)
 
-> Showing 3D concepts through interactive examples is far more effective than static explanations.
+This engine is what allows me to build complex 3D editors and configurators that feel instant, no matter the scale.
 
 ---
 
 ## 🧩 Dependencies & Platforms
 
-- **Vercel** — Hosting & Deployment
-- **GitHub** — Source Code & Project Management
-- **LinkedIn** — Professional Networking
-- **Upwork / Arc.dev / Toptal** — Freelance & Consulting Platforms
-- **YouTube** — Educational & Demo Videos
-- **Calendly** — Booking & Consultations
-- **Canva** — Visual & Marketing Assets
-- **Google** — mail and all
-- **Bank Hapoalim** — Business Banking
-- **Business Registration (מורשה)** — Official Israeli Business Entity
+- **Babylon.js** — Core 3D engine
+- **TypeScript** — Type safety & developer experience
+- **npm / Yarn / pnpm** — Package management
+- **Vercel** — Hosting & instant deployment
+- **GitHub** — Source code & collaboration
+- **LinkedIn** — Professional network
+- **Upwork / Arc.dev / Toptal** — Freelance platforms
+- **YouTube** — Demos, tutorials, and behind-the-scenes
+- **Calendly** — Booking consultations
+- **Canva** — Visual assets & branding
+- **Google Workspace** — Mail & docs
+- **Bank Hapoalim** — Business banking
+- **עוסק מורשה** — Official Israeli registered business
 
 ---
 
-## 💬 About My Work
+## 💬 My Philosophy
 
-I believe in **open, accessible code** and **paid expertise**.  
-I give away my tools freely, but what clients truly gain from working with me is the ability to **solve complex problems creatively** using **3D programming**, **geometry systems**, and **interactive experiences**.
+I believe great tools should be **free and open**.  
+That’s why **RayanKit is 100% free**, and parts of **Rayan Engine** will be open-sourced over time.
+
+What I sell is not code — it’s **deep expertise** in solving hard 3D problems fast, reliably, and beautifully.
+
+You get the tools for free.  
+You hire me when you need them to work at scale, under real deadlines, for real clients.
 
 ---
 
