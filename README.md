@@ -65,20 +65,10 @@ Every tool includes:
 
 ---
 
-## 🧪 Rayan Engine — My Custom High-Performance Geometry Kernel
+## 🧪 Rayan Labs — Posts about Babylon.js, 3D experiments, prototypes, tutorials, behind-the-scenes explorations.
 
-**Rayan Engine** is the core technology powering my most ambitious projects.
-
-### Core Features
-
-- Full-featured **geometry kernel** (CSG, boolean operations, parametric modeling)
-- Robust **Undo/Redo system** (command pattern, unlimited history)
-- Custom **binary file format** (.rayan) — ultra-compact and fast parsing
-- Aggressive **LOD system** keeping **60 FPS even with millions of instances/models**
-- Built from the ground up for the web with Babylon.js + WebGPU-ready architecture
-- Real-time collaborative editing ready (multi-user sync in development)
-
-This engine is what allows me to build complex 3D editors and configurators that feel instant, no matter the scale.
+**Rayan Labs** is my space for sharing insights and creations in the world of 3D web development.  
+“Labs” signals innovation, experimentation, and creativity.
 
 ---
 
@@ -89,7 +79,7 @@ This engine is what allows me to build complex 3D editors and configurators that
 - **npm / Yarn / pnpm** — Package management
 - **Vercel** — Hosting & instant deployment
 - **GitHub** — Source code & collaboration
-- **LinkedIn** — Professional network
+- **LinkedIn** — Professional network and blogs
 - **Upwork / Arc.dev / Toptal** — Freelance platforms
 - **YouTube** — Demos, tutorials, and behind-the-scenes
 - **Calendly** — Booking consultations
@@ -103,7 +93,7 @@ This engine is what allows me to build complex 3D editors and configurators that
 ## 💬 My Philosophy
 
 I believe great tools should be **free and open**.  
-That’s why **RayanKit is 100% free**, and parts of **Rayan Engine** will be open-sourced over time.
+That’s why **RayanKit is 100% free**, and parts of **Rayan Labs** will be open-sourced over time.
 
 What I sell is not code — it’s **deep expertise** in solving hard 3D problems fast, reliably, and beautifully.
 

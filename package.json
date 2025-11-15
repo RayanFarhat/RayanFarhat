@@ -23,6 +23,7 @@
 		"vite": "^7.1.10"
 	},
 	"dependencies": {
-		"@babylonjs/core": "^8.36.1"
+		"@babylonjs/core": "^8.36.1",
+		"gsap": "^3.13.0"
 	}
 }
