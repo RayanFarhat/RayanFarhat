@@ -1,9 +1,12 @@
 <script>
   import GlowingWrapper from "$lib/components/GlowingWrapper.svelte";
+  import PreLouder from "$lib/components/main/PreLouder.svelte";
   import NavBar from "$lib/components/NavBar.svelte";
   import NavBtn from "$lib/components/navbar/NavBtn.svelte";
   import ThemeButtons from "$lib/components/ThemeButtons.svelte";
 </script>
+
+<PreLouder />
 
 <NavBar />
 <p>

@@ -114,7 +114,7 @@
   on:pointerleave={leave}
   class="relative inline-block px-6 py-3 text-(--text) rounded-lg font-semibold text-base overflow-hidden no-underline cursor-pointer"
 >
-  <span class="label relative z-10">{label}</span>
+  <span class="label relative z-10 mono">{label}</span>
 
   <!-- Top-left corner SVG -->
   <svg

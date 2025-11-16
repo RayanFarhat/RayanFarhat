@@ -33,71 +33,57 @@
       duration: 1.5,
       delay: 3.5,
       height: 0,
+      opacity: 0,
       stagger: { amount: 0.5 },
       ease: "power2.inOut",
     });
-
-    gsap.from(".h1", {
+    gsap.to(".louder", {
       duration: 1.5,
-      delay: 4,
-      y: 700,
+      delay: 3.5,
+      opacity: 0,
       stagger: { amount: 0.5 },
       ease: "power2.inOut",
-    });
-
-    gsap.from(".hero", {
-      duration: 2,
-      delay: 5,
-      y: 400,
-      ease: "power2.inOut",
+      onComplete() {
+        document
+          .querySelectorAll(".counter, .bar, .louder, .louderbg")
+          .forEach((el) => el.remove());
+      },
     });
   }
 </script>
 
 <h1
-  class="counter fixed w-full h-full flex justify-end items-end z-50 text-blue-600 text-8xl p-10"
+  class="counter fixed w-full h-full flex justify-center items-end z-50 text-(--color-8) text-[120px]"
 >
   0
 </h1>
-<div class="overlay fixed w-screen h-screen z-40 flex">
-  <div class="bar bg-amber-200"></div>
-  <div class="bar"></div>
-  <div class="bar"></div>
-  <div class="bar"></div>
-  <div class="bar bg-red-500"></div>
-  <div class="bar"></div>
-  <div class="bar"></div>
-  <div class="bar"></div>
-  <div class="bar"></div>
-  <div class="bar"></div>
+<div
+  class="louder fixed w-screen h-screen z-50 flex bg-transparent items-center justify-center"
+>
+  <p
+    class="bg-(--bg) w-40 h-40 border-2 border-(--color-8) flex justify-center items-center font-bold"
+  >
+    <img src="favicon.svg" alt="" />
+  </p>
 </div>
-<div class="container bg-amber-400">
-  <p>dsdsds sadasd asa</p>
-  <div class="header w-full flex justify-between p-[2em]">
-    <!-- <div class="h1">R</div>
-    <div class="h1">A</div>
-    <div class="h1">Y</div>
-    <div class="h1">A</div>
-    <div class="h1">N</div> -->
-    <div class="h1">3D</div>
-    <div class="h1">WEB</div>
-    <div class="h1">Software</div>
-    <div class="h1">Engineer</div>
-  </div>
-  <div
-    class="hero relative h-full w-[calc(100vw-4em)] m-0 rounded-2xl border-4"
-  ></div>
+<div class="fixed louderbg w-screen h-screen z-40 flex">
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar border-r border-(--color-8)"></div>
 </div>
 
 <style>
-  .header .h1 {
-    position: relative;
-    font-size: 3vw;
-    line-height: 1.125;
-  }
   .bar {
     width: 10vw;
     height: 105vh;
-    /* background-color: var(--bg); */
+    background-color: var(--bg);
+    border-left: 1px solid var(--color-8);
   }
 </style>
