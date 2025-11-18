@@ -20,7 +20,7 @@
       border-2 border-(--color-8)
     px-6 py-2 rounded-lg transition hover:bg-(--bg) hover:text-(--text)"
     >
-      Rayan Kit</button
+      WebXR</button
     >
   </div>
 </div>

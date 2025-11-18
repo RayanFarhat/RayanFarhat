@@ -44,27 +44,6 @@ Simple contact form + Calendly link for quick discovery calls.
 
 ---
 
-## ⚙️ RayanKit — Reusable Babylon.js Components (Free & Open)
-
-**RayanKit** is my ever-growing collection of production-ready, reusable 3D tools and components built for Babylon.js.
-
-### ✳️ Key Tools
-
-- DXF Reader / Writer / Renderer
-- Advanced Geometry Utilities
-- Custom Shader Library
-- Creative Animation Systems (vanilla JS + GSAP integrations)
-- Performance helpers (instancing, LOD, frustum culling, etc.)
-
-Every tool includes:
-
-- Full documentation
-- Resizable live playground
-- Problem it solves explained
-- **Free download** (TypeScript + Babylon.js source)
-
----
-
 ## 🧪 Rayan Labs — Posts about Babylon.js, 3D experiments, prototypes, tutorials, behind-the-scenes explorations.
 
 **Rayan Labs** is my space for sharing insights and creations in the world of 3D web development.  
