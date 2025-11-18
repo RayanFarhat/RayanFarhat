@@ -22,13 +22,12 @@ Turning complex 3D visions into high-performance, production-ready web experienc
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanfarhat&theme=radical&hide_border=true"/>
 </div>
 
-### Let's Connect
+### Let's Connect 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rayanfarhat.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rayanfarhat.coms)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayanfarhat)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rayanfarhat)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rayanfarhat.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rayanfarhat.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rayanfarhat.com)
+[![Engine](https://img.shields.io/badge/Engine-My_3D_Engine-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.arkxengine.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayanfarhat-engineer)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rayanfarhat.sh@gmail.com)
 
-Currently open to interesting 3D web projects, consulting, and speaking opportunities.
-
-Love building impossible things in the browser. Let's create something amazing together
+**Currently open to** interesting 3D web projects, consulting, and speaking opportunities.  
+Love building impossible things in the browser. Let's create something amazing together 🚀
