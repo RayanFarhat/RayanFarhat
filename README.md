@@ -22,12 +22,19 @@ Turning complex 3D visions into high-performance, production-ready web experienc
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanfarhat&theme=radical&hide_border=true"/>
 </div>
 
-### Let's Connect 👋
+### Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rayanfarhat.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rayanfarhat.com)
-[![Engine](https://img.shields.io/badge/Engine-My_3D_Engine-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.arkxengine.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayanfarhat-engineer)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rayanfarhat.sh@gmail.com)
+<div align="center">
 
-**Currently open to** interesting 3D web projects, consulting, and speaking opportunities.  
-Love building impossible things in the browser. Let's create something amazing together 🚀
+**Hi, I'm Rayan** — I make browsers do impossible 3D things ✨
+
+[🌐 My Website](https://rayanfarhat.com) • 
+[⚡ My 3D Engine](https://www.arkxengine.com) • 
+[💼 LinkedIn](https://www.linkedin.com/in/rayan-farhat-engineer) • 
+[✉️ rayanfarhat.sh@gmail.com](mailto:rayanfarhat.sh@gmail.com)
+
+Currently **open to** freelance 3D/web projects, consulting & talks  
+Love shipping things that shouldn't run in a browser  
+Let's build something wild together
+
+</div>
