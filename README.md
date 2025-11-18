@@ -1,84 +1,34 @@
-# 🧠 Rayan Farhat — 3D Web Software Engineer & Babylon.js Expert
+# Hey, I'm Rayan Farhat 👋
 
-Welcome to my portfolio — where cutting-edge 3D web engineering meets creative problem-solving.  
-Expert in **Babylon.js**, **TypeScript**, geometry kernels, high-performance rendering, and interactive experiences.  
-Inspired by the clarity and interactivity of [Andrey Markin](https://andrey-markin.com/).
+**3D Web Engineer • Babylon.js Expert**
 
----
+Turning complex 3D visions into high-performance, production-ready web experiences.
 
-## 🌍 Main Website Structure
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:000000,1:0D0D0D&height=200&section=header&text=3D%20Web%20Engineer%20&fontSize=80&fontColor=FF0000&animation=fadeIn)
 
-There is also an **AR button** on the landing page that launches the entire portfolio in Augmented Reality — letting visitors explore an immersive 3D version of the site on their phone or AR glasses.
+### About Me
 
-### 🦸 Hero
+- Full-time **3D Web Engineer**
+- Passionate about pushing the limits of what's possible in the browser
 
-A powerful, interactive 3D introduction:  
-**Rayan Farhat — 3D Web Software Engineer & Babylon.js Expert**
+### Stats & Activity
 
-### 🛠️ Services
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayanfarhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanfarhat&layout=compact&theme=radical&hide_border=true&langs_count=10"/>
+</div>
 
-- Custom 3D web applications & experiences
-- High-performance geometry systems & editors
-- Interactive product configurators & visualizations
-- Creative shaders, animations, and real-time rendering solutions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanfarhat&theme=radical&hide_border=true"/>
+</div>
 
-### 💼 Projects
+### Let's Connect
 
-Curated selection of production-grade 3D web projects showcasing advanced Babylon.js techniques, large-scale scene management, and creative engineering.
+[![Portfolio](https://img.shields.io/badge/Portfolio-rayanfarhat.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rayanfarhat.coms)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayanfarhat)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rayanfarhat)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rayanfarhat.dev)
 
-### 🧠 Experience
+Currently open to interesting 3D web projects, consulting, and speaking opportunities.
 
-10+ years in software engineering, with deep specialization in real-time 3D on the web.
-
-### ⭐ Reviews
-
-Real testimonials from clients on Upwork, Toptal, Arc.dev, and direct collaborations.
-
-### 💰 Pricing
-
-Transparent packages: from one-day consultations to full-scale 3D platform development.
-
-### 📞 Contact
-
-Simple contact form + Calendly link for quick discovery calls.
-
----
-
-## 🧪 Rayan Labs — Posts about Babylon.js, 3D experiments, prototypes, tutorials, behind-the-scenes explorations.
-
-**Rayan Labs** is my space for sharing insights and creations in the world of 3D web development.  
-“Labs” signals innovation, experimentation, and creativity.
-
----
-
-## 🧩 Dependencies & Platforms
-
-- **Babylon.js** — Core 3D engine
-- **TypeScript** — Type safety & developer experience
-- **npm / Yarn / pnpm** — Package management
-- **Vercel** — Hosting & instant deployment
-- **GitHub** — Source code & collaboration
-- **LinkedIn** — Professional network and blogs
-- **Upwork / Arc.dev / Toptal** — Freelance platforms
-- **YouTube** — Demos, tutorials, and behind-the-scenes
-- **Calendly** — Booking consultations
-- **Canva** — Visual assets & branding
-- **Google Workspace** — Mail & docs
-- **Bank Hapoalim** — Business banking
-- **עוסק מורשה** — Official Israeli registered business
-
----
-
-## 💬 My Philosophy
-
-I believe great tools should be **free and open**.  
-That’s why **RayanKit is 100% free**, and parts of **Rayan Labs** will be open-sourced over time.
-
-What I sell is not code — it’s **deep expertise** in solving hard 3D problems fast, reliably, and beautifully.
-
-You get the tools for free.  
-You hire me when you need them to work at scale, under real deadlines, for real clients.
-
----
-
-© 2025 Rayan Farhat. All rights reserved.
+Love building impossible things in the browser. Let's create something amazing together
