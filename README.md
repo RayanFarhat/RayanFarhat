@@ -1,10 +1,10 @@
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:000000,1:0D0D0D&height=200&section=header&text=3D%20Web%20Engineer%20&fontSize=80&fontColor=FF0000&animation=fadeIn)
+
 # Hey, I'm Rayan Farhat 👋
 
 **3D Web Engineer • Babylon.js Expert**
 
 Turning complex 3D visions into high-performance, production-ready web experiences.
-
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:000000,1:0D0D0D&height=200&section=header&text=3D%20Web%20Engineer%20&fontSize=80&fontColor=FF0000&animation=fadeIn)
 
 ### About Me
 
